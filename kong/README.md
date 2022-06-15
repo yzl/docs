@@ -49,6 +49,9 @@ WARNING:
 	[official-images repo's `library/kong` label](https://github.com/docker-library/official-images/issues?q=label%3Alibrary%2Fkong)  
 	[official-images repo's `library/kong` file](https://github.com/docker-library/official-images/blob/master/library/kong) ([history](https://github.com/docker-library/official-images/commits/master/library/kong))
 
+-	**How to build images**:
+	[how to build Kong images](https://github.com/Kong/docker-kong/blob/master/build_your_own_images.md) 
+
 -	**Source of this description**:  
 	[docs repo's `kong/` directory](https://github.com/docker-library/docs/tree/master/kong) ([history](https://github.com/docker-library/docs/commits/master/kong))
 
